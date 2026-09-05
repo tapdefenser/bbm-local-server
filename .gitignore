@@ -1,0 +1,12 @@
+input/
+analysis/
+.tools/
+.venv/
+output/
+runtime/
+__pycache__/
+*.pyc
+.pytest_cache/
+.local/
+**/bin/
+**/obj/

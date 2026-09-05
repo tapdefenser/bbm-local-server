@@ -1,0 +1,4 @@
+-r requirements.txt
+capstone==5.0.6
+pyelftools==0.32
+UnityPy==1.23.0

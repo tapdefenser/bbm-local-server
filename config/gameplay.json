@@ -1,0 +1,70 @@
+{
+  "starting_wallet": {
+    "cash": 0,
+    "p_cash": 0,
+    "coin": 500,
+    "candy": 500,
+    "choco": 0,
+    "manaStone": 0,
+    "friendPoint": 0,
+    "mandoriSeed": 0,
+    "mandoriTonic": 0,
+    "soulStone": 0
+  },
+  "mode_wallet": {
+    "infiniteTicketCount": 0,
+    "infiniteTicketRefreshTime": 0,
+    "extraBuildCount": 0,
+    "darkcityNormalTicketCount": 0,
+    "darkcityBossTicketCount": 0,
+    "darkCityTicketRefreshTime": 0,
+    "wantedTicketCount": 0,
+    "wantedTicketRefreshTime": 0
+  },
+  "equip": {
+    "monsterDeckId": 0,
+    "townSlotId": 0,
+    "maxMonsterCount": 30,
+    "maxMinimonCount": 30
+  },
+  "inventory": {
+    "userMonsterList": [
+      {"sid": 10001, "id": 302, "exp": 0, "skinID": 0, "minimonSid": -1, "isLock": false, "loseHp": 0, "recoveryTime": 0, "isNew": false},
+      {"sid": 10002, "id": 200301, "exp": 0, "skinID": 0, "minimonSid": -1, "isLock": false, "loseHp": 0, "recoveryTime": 0, "isNew": false},
+      {"sid": 10003, "id": 602, "exp": 0, "skinID": 0, "minimonSid": -1, "isLock": false, "loseHp": 0, "recoveryTime": 0, "isNew": false}
+    ],
+    "userMinimonList": [],
+    "userMonsterDeckList": [
+      {"deckId": 0, "deckName": "Team 1", "monsterSid": [10001, 10002, 10003]}
+    ]
+  },
+  "town": {
+    "devMapSeq": 0,
+    "mapName": "",
+    "mainMonsterId": 302,
+    "mainMonsterSkinId": 0,
+    "clanId": 0,
+    "clanName": "",
+    "clanIconName": "",
+    "clanIconDeco": "",
+    "clanIconBackground": "",
+    "trophy": 0,
+    "townBaseID": 101,
+    "teamColor": "#B392FF",
+    "propList": [
+      {"state": 0, "actionId": 0, "actionTime": 0, "sid": 1, "propId": 10100000, "propLevel": 1, "propSkinId": 0, "attribute": 0, "posx": 0.0, "posz": -10.0, "roty": 0.0, "lostHp": 0, "lostCoin": 0, "lostCandy": 0, "lostChoco": 0}
+    ],
+    "propListInven": [],
+    "townBaseCategory": 1,
+    "townSkyCategory": 1,
+    "combatPower": 0,
+    "badge": 0,
+    "maxCoin": 1000,
+    "maxCandy": 1000,
+    "maxChoco": 0,
+    "coinStorageCount": 0,
+    "candyStorageCount": 0,
+    "chocoStorageCount": 0,
+    "revengeKey": ""
+  }
+}
